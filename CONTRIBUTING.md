@@ -8,4 +8,4 @@ The _best_ way to contribute to the project currently, however, is to try it out
 
 ## Licensing
 
-By contributing to the project, you grant license to said contribution as defined by the terms of the applicable license. Projects under the @nafi-lang organization typically use the [MPL-2.0](https://spdx.org/licenses/MPL-2.0.html) license.
+By contributing to the project, you grant license to said contribution as defined by the terms of the applicable license. Projects under the [@nafi-lang](https://github.com/nafi-lang) organization typically use the [MPL-2.0](https://spdx.org/licenses/MPL-2.0.html) license.
