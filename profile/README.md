@@ -4,7 +4,7 @@ Nafi is an experimental hobby scripting language prioritizing IDE support via [L
 
 ### Contribution guidelines
 
-Nafi is currently a single developer passion project by [@CAD97](https://github.com/CAD97/). We appreciate your interest, but for practical reasons it's unlikely we'll be able to accept nontrivial contributions at this time. For more info, see [CONTRIBUTING.md].
+Nafi is currently a single developer passion project by [@CAD97](https://github.com/CAD97/). We appreciate your interest, but for practical reasons it's unlikely we'll be able to accept nontrivial contributions at this time. For more info, see [CONTRIBUTING.md](https://github.com/nafi-lang/.github/blob/main/CONTRIBUTING.md).
 
 ### Fun fact
 
