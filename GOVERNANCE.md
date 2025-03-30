@@ -7,6 +7,7 @@
 - [@nafi-lang/security] is responsible for handling potential security issues reported to [@nafi-lang] projects.
 - [@nafi-lang/triage] has triage permissions to manage issues/PRs/discussions in [@nafi-lang] repositories.
 - [@nafi-lang/review] has review permissions to merge contributions into [@nafi-lang] repositories.
+- [@nafi-lang/ops] has admin access to manage CI/CD (e.g. GitHub Actions).
 
 Teams can be `@mentioned` by organization members but notifications are disabled for these top-level teams[^security]. Subteams are used for notification and auto assignment groups as useful.
 
@@ -18,3 +19,4 @@ Teams can be `@mentioned` by organization members but notifications are disabled
 [@nafi-lang/security]: <https://github.com/orgs/nafi-lang/teams/security>
 [@nafi-lang/triage]: https://github.com/orgs/nafi-lang/teams/triage
 [@nafi-lang/review]: https://github.com/orgs/nafi-lang/teams/review
+[@nafi-lang/ops]: https://github.com/orgs/nafi-lang/teams/ops
